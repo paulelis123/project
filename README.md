@@ -13,4 +13,4 @@ This project shows artists distribution threw out Renaissance period.
 ## dependencies
 
 License (MIT) - https://opensource.org/license/mit/
-WEB - 
+WEB - https://pauliussekliuckis.wixsite.com/renaissance-data-pro 
